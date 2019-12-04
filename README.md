@@ -14,4 +14,6 @@ atau bisa langsung aktifkan less secure melalui link dibawah
 
 jalankan program pada terminal (pastikan sudah terinstall interpreter python3 di localhost)
 
+    git clone https://github.com/prastamaha/send_email.py
+    cd send_email.py
     python3 send_email.py
